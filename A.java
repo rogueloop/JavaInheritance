@@ -2,6 +2,7 @@ class A {
     protected int x;
     protected int y;
 
+    // protecter variables can be accesssed
     PUBLIC A() {
         x = 10;
         y = 20;
